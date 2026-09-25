@@ -1,0 +1,16 @@
+
+#ifndef APP_SNAKE_GAME_CONFIG_H_
+#define APP_SNAKE_GAME_CONFIG_H_
+
+#define MAX_SNAKE_LENGTH 256
+
+#define MATRIX_ROWS     16
+#define MATRIX_COLS     16
+
+#define BUTTONS_PORT    DIO_PORTB
+
+#define BUTTON_UP       DIO_PIN0
+#define BUTTON_DOWN     DIO_PIN1
+#define BUTTON_RIGHT    DIO_PIN2
+#define BUTTON_LEFT     DIO_PIN3
+#endif

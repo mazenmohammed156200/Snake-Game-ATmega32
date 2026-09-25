@@ -1,0 +1,6 @@
+#ifndef MCAL_SCHEDULER_SCHEDULER_CONFIG_H_
+#define MCAL_SCHEDULER_SCHEDULER_CONFIG_H_
+
+#define NO_OF_TASKS         4
+
+#endif

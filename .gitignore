@@ -1,0 +1,10 @@
+.settings/
+Debug/
+.cproject
+.project
+*.elf
+*.hex
+*.lss
+*.map
+*.o
+*.d
