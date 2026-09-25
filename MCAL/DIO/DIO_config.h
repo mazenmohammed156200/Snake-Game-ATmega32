@@ -1,8 +1,9 @@
-/*
- * DIO_config.h
- *
- *  Created on: Aug 25, 2026
- *      Author: ot
+/**
+ * @file DIO_config.h
+ * @brief Configuration header file for ATmega32 General Purpose I/O (DIO) driver.
+ * @author Mazen Mohammed
+ * @author Mohamed Hesham
+ * @date September 2026
  */
 
 #ifndef MCAL_DIO_DIO_CONFIG_H_
